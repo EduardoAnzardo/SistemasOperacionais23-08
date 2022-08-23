@@ -2,7 +2,7 @@
 
 A proposta do programa se baseia num instrumento em que o usuário pode selecionar varias opções que estão embutidas no sistema, sendo elas:
 
-Notas: vai abrir o outro bloco de notas no sistema;
+Notas: vai abrir o outro bloco de notas no sistema (outrotrabalho.txt);
 
 Data: vai mostrar a data atual no computador, alem de ser capaz de alterar;
 
