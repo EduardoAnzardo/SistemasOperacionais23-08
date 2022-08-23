@@ -2,11 +2,11 @@
 cls
 @echo ===========================================================================================
 @echo Painel de Comando do Anzardo
-@echo Seleciona sua opcao:
-@echo -Opcao "notas" : Abrir outro bloco de notas
-@echo -Opcao "data" : Alterar data do computador
-@echo -Opcao "version": Mostrar a versao atual do computador
-@echo -Opcao "diretorio": Mostrar o diretorio
+@echo Opcoes disponiveis:
+@echo -Opcao "notas";
+@echo -Opcao "data";
+@echo -Opcao "version";
+@echo -Opcao "diretorio";
 @echo Caso possua uma duvida sobre como funciona, digite "help"
 
 @echo -Digite o nome da opcao que deseja acessar:
@@ -60,7 +60,11 @@ cls
 :help
 cls
 @echo ===========================================================================================
-@echo Digite o comando que deseja para acessar a sua devida aba
+@echo Digite o comando que deseja para acessar a sua devida aba, sendo suas devidas funcoes:
+@echo -Opcao "notas" : Abrir outro bloco de notas
+@echo -Opcao "data" : Alterar data do computador
+@echo -Opcao "version": Mostrar a versao atual do computador
+@echo -Opcao "diretorio": Mostrar o diretorio
 @pause
 @GOTO :PainelComando
 
